@@ -1,0 +1,9 @@
+Aurélie joue à pierre, papier, ciseaux avec son grand frère Valentin.
+
+Aide Aurélie à battre Valentin en lui donnant la stratégie à adopter.
+
+La pierre brise les ciseaux, les ciseaux coupent le papier, le papier bat la pierre.
+
+
+
+Appuie quelque part ou sur une touche pour accéder au niveau.
